@@ -1,9 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>My Background and Ambitions Project</title>
-    <meta charset="utf-8" />
-  </head>
-  <body>
-    </body>
-</html>
+# My Background and Ambitions Project
+
+## Educational Background
+
+* As a psychology major at a technical school, I have found myself at an interesting
+intersection of fields of thought. Not only have I learned to work with peers
+of diverse backgrounds like engineering and design, but I've also learned the importance
+of studying technology from the perspective of a social scientist.
+I've taken many courses throughout my time at IIT which have fostered this unexpected
+fascination.
+* I've taken a wide array of courses that touched upon fascinating topics like
+artificial intelligence, human-computer interaction, cognition, digital design, and
+science and technology studies. These topics were not found in just one department like
+communication, for example. Rather, I studied these topics in departments like philosophy,
+business, humanities, and psychology. These courses have led me to become interested
+in user experience design and user research as a career.
+
+
+## Professional Ambitions
+
+*  I hope to become an influential social scientist within the field of technology. I
+feel as though my understanding of how people interact with machines and how machines
+have the ability to influence people will give me an 'edge' in the UX field. I think
+it would be really cool to design things that function well and that people enjoy
+using. Especially because technology is becoming one of the main drivers of our
+society today and our policy makers keep pushing for technical generations, I think the
+need to keep technology human-focused will be increasingly relevant.
+
+* I hope to learn as much as I can on the technical development side of things.
+I feel as though in order to enter a field like UX, it is imperative to understand
+all sides of the design process, including the programming aspect. I also would like
+to further investigate why a 'web development' titled class could fall under
+the communications department rather than computer science. Because of all these
+curiosities, I'm looking forward to learning a lot in this course.
