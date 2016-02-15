@@ -23,12 +23,12 @@ feel as though my understanding of how people interact with machines and how mac
 have the ability to influence people will give me an 'edge' in the UX field. I think
 it would be really cool to design things that function well and that people enjoy
 using. Especially because technology is becoming one of the main drivers of our
-society today and our policy makers keep pushing for technical generations, I think the
+society today and there’s a constant push towards technical training, I think the
 need to keep technology human-focused will be increasingly relevant.
 
-* I hope to learn as much as I can on the technical development side of things.
+* I hope to learn as much as I can on the development side of things.
 I feel as though in order to enter a field like UX, it is imperative to understand
-all sides of the design process, including the programming aspect. I also would like
-to further investigate why a 'web development' titled class could fall under
+all sides of the design process, including the technical aspect. I also would like
+to reflect, perhaps on my own, why a 'web development' titled class could be taught in
 the communications department rather than computer science. Because of all these
 curiosities, I'm looking forward to learning a lot in this course.
